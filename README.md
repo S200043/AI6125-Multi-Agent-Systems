@@ -7,7 +7,7 @@ Nanyang Technological University AY2020/2021 Semester 2
 **Assignment 2**
 - Short Answer Questions
 
-**Group Project
+**Group Project**
 - Design cooperative intelligent agents for Tileworld testbed
 - Team Members
   - Arthi Thiyagarajan
